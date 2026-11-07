@@ -190,3 +190,6 @@ This repository serves as the official landing page for Hex Blast. The software 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Hex Blast today!**
+
+---
+**Last updated:** 2026-11-07 15:35:59 UTC
